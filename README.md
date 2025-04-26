@@ -1,6 +1,6 @@
-# Sistema de Turnos
+# Interaccion con C# 
 
-Este proyecto es una simulación de un sistema de turnos médicos desarrollado en C#.
+Estas publicaciones seran para guardar cosas importantes y mi avance en C#.
 
 ## Estructura del proyecto
 
